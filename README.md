@@ -2,7 +2,7 @@
 - 👀 Estoy interesado en problemas de la vida cotidiana que podrian resolverse con programas sencillos
 - 🌱 Me gusta aprender más
 - 💞️ busco colaborar en proyectos de IA
-- 📫 contactarme al correo 184201@unsaac.edu.pe
+- 📫 contactarme al correo GutierrezT.LFernando@gmail.com
 
 <!---
 L-FER-GT/L-FER-GT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
